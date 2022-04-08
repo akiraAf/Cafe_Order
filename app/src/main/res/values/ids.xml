@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="checkboxSugar" type="id" />
+    <item name="textViewChooseAddintion" type="id" />
+    <item name="textViewChooseAddition" type="id" />
+    <item name="textViewChooseDrink" type="id" />
+    <item name="coffee" type="id" />
+    <item name="radioButtonCoffee" type="id" />
+</resources>
